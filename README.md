@@ -1,3 +1,4 @@
 # git-demo
-this is my first repo
-author-Nbpatil
+this is my first repo.
+<br>
+Author-Nbpatil
